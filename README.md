@@ -7,8 +7,8 @@ It's a totally harmless little CSS hack.
 ### Prerequisite
 Know where your Steam folder is located.<br>
 These are the default locations as far as I know.
-* Windows: `\Program Files` or `\Program Files (x86)`
-* Linux: `~/.steam/steam/` or `~/.local/share/Steam`
+* Windows: `\Program Files\Steam` or `\Program Files (x86)\Steam`
+* Linux: `~/.steam/steam` or `~/.local/share/Steam`
 * Mac: `~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS`
 
 ### Installation
