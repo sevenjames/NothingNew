@@ -2,6 +2,9 @@
 
 A skin for Steam that removes the "What's New" section.
 
+### Why
+It's pretty big and annoying. I don't want to see it. Maybe you want the same?
+
 ### Prerequisite
 Know where your Steam folder is located.<br>
 These are the default locations as far as I know.
