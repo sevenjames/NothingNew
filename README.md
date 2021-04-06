@@ -1,6 +1,6 @@
 ## NothingNew
 
-This is a skin for Steam that removes the "What's New" section from the Library.
+A skin for Steam that removes the "What's New" section.
 
 It's a totally harmless little CSS hack.
 
