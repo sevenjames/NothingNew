@@ -6,7 +6,7 @@ It necessarily includes a duplicate of the default style file "\Steam\resource\s
 <br>_If Steam ever updates that file then this skin would need an update as well._
 
 Installation:
-1. Download or clone this repository.
+1. Download the [latest release](https://github.com/sevenjames/NothingNew/releases)
 1. Copy the NothingNew folder into the \Steam\skins\ folder.
 1. Restart Steam.
 1. Open Steam settings.
