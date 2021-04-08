@@ -5,6 +5,9 @@ A skin for Steam that removes the "What's New" section.
 ### Why
 It's pretty big and annoying. I don't want to see it. Maybe you want the same?
 
+### Compatibility
+This skin works with the Steam Client as of 2021-03-23. It cant hurt anything, but functionality with future releases of Steam cannot be known. If you suspect that this skin is failing or interfering with any future version of Steam, just uninstall it and then check back here for an unpdated version.
+
 ### Prerequisite
 Know where your Steam folder is located.<br>
 These are the default locations as far as I know.
@@ -28,11 +31,3 @@ These are the default locations as far as I know.
 1. Click OK.
 1. Restart Steam.
 1. Delete the NothingNew folder from the `\Steam\skins\` folder.
-
-### Manual Update
-This skin necessarily includes a duplicate of the default style file.
-<br>_If Steam ever updates that file then this skin would be out of sync with the default style._
-<br>This is very easy to fix:
-1. copy `\Steam\resource\styles\steam.styles`
-1. into `\Steam\skins\NothingNew-xxx\resource\styles\`
-1. overwrite = yes
