@@ -16,14 +16,14 @@ These are the default locations as far as I know.
 * Mac: `~/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS`
 
 ### Installation
-1. Download and unzip the [latest release](https://github.com/sevenjames/NothingNew/releases)
-1. Copy the NothingNew-xxx folder into the `\Steam\skins\` folder.
-1. Restart Steam.
-1. Open Steam settings.
-1. In the Interface section, select the NothingNew skin.
-1. Click OK.
-1. Restart Steam.
-1. Observe the lack of news. :shipit:
+1. :truck: Download and unzip the [latest release](https://github.com/sevenjames/NothingNew/releases)
+1. :open_file_folder: Copy the NothingNew-xxx folder into the `\Steam\skins\` folder.
+1. :arrows_counterclockwise: Restart Steam.
+1. :gear: Open Steam settings.
+1. :point_right: In the Interface section, select the NothingNew skin.
+1. :heavy_check_mark: Click OK.
+1. :arrows_counterclockwise: Restart Steam.
+1. :shipit: Observe the lack of news.
 
 ### Uninstallation
 1. Open Steam settings.
