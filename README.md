@@ -18,12 +18,13 @@ These are the default locations as far as I know.
 ### Installation
 1. :truck: Download and unzip the [latest release](https://github.com/sevenjames/NothingNew/releases)
 1. :open_file_folder: Copy the NothingNew-xxx folder into the `\Steam\skins\` folder.
-1. :arrows_counterclockwise: Restart Steam.
-1. :gear: Open Steam settings.
-1. :point_right: In the Interface section, select the NothingNew skin.
-1. :heavy_check_mark: Click OK.
-1. :arrows_counterclockwise: Restart Steam.
-1. :shipit: Observe the lack of news.
+   - *If there's an old version in there just delete it.*
+3. :arrows_counterclockwise: Restart Steam.
+4. :gear: Open Steam settings.
+5. :point_right: In the Interface section, select the NothingNew skin.
+6. :heavy_check_mark: Click OK.
+7. :arrows_counterclockwise: Restart Steam.
+8. :shipit: Observe the lack of news.
 
 ### Uninstallation
 1. Open Steam settings.
