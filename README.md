@@ -1,3 +1,5 @@
+:cry: *As of June 2023, Steam no longer supports skins, effectively rendering this moot.*
+
 ## NothingNew
 
 A skin for Steam that removes the "What's New" section.
@@ -6,7 +8,7 @@ A skin for Steam that removes the "What's New" section.
 It's pretty big and annoying. I don't want to see it. Maybe you want the same?
 
 ### Compatibility
-This skin works with the Steam Client as of 2021-11-20. It can't hurt anything, but functionality with future releases of Steam cannot be known. If you suspect that this skin is failing or interfering with any future version of Steam, just uninstall it and then check back here for an updated version.
+It can't hurt anything, but functionality with future releases of Steam cannot be known. If you suspect that this skin is failing or interfering with any future version of Steam, just uninstall it and then check back here for an updated version.
 
 ### Prerequisite
 Know where your Steam folder is located.<br>
